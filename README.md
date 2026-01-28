@@ -97,7 +97,7 @@ student-marks-prediction/
 ├── static/images                       
 │
 └── outputs/
-    └── student_info.csv    # Generated automatically 
+    └── smp_data_from_app.csv   # Generated automatically 
 
 ```
 
