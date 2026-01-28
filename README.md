@@ -84,14 +84,21 @@ This project solves the problem by building and deploying a **Machine Learning r
 ```
 student-marks-prediction/
 │
-├── app.py                     # Flask app 
+├── app.py                       # Flask app
 ├── student_mark_prediction.ipynb
-├── model.pkl                  # trained model 
+├── model.pkl                    # Trained ML model
 ├── requirements.txt
 ├── README.md
+├── .gitignore
+│
 ├── templates/
 │   └── index.html
-└── static/ (optional)
+│
+├── static/images                       
+│
+└── outputs/
+    └── student_info.csv    # Generated automatically 
+
 ```
 
 ---
